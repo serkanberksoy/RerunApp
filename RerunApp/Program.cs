@@ -16,7 +16,6 @@ Usage: RERUNPROCESS.EXE [EXECUTABLENAME] [PATH]
                 return;
             }
             
-            Process thisProc = Process.GetCurrentProcess();
             if (!IsProcessOpen(args[0].ToLower().Replace(".exe", "")))
             {
                 StartProcess(args);
@@ -43,7 +42,7 @@ Usage: RERUNPROCESS.EXE [EXECUTABLENAME] [PATH]
             }
         }
 
-        public static bool IsProcessOpen(string name)
+        private static bool IsProcessOpen(string name)
         {
             foreach (Process clsProcess in Process.GetProcesses())
             {

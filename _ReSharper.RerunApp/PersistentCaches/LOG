@@ -1,1 +1,5 @@
-2013/05/31-11:21:56.160 1680 Delete type=3 #1
+2013/05/31-13:25:50.247 1fb4 Recovering log #3
+2013/05/31-13:25:50.247 1fb4 Level-0 table #5: started
+2013/05/31-13:25:50.263 1fb4 Level-0 table #5: 17496 bytes OK
+2013/05/31-13:25:50.263 1fb4 Delete type=0 #3
+2013/05/31-13:25:50.263 1fb4 Delete type=3 #2
