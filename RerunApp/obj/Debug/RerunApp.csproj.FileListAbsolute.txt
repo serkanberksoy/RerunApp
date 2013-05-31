@@ -1,0 +1,6 @@
+D:\Misc\RerunApp\RerunApp\RerunApp\bin\Debug\RerunApp.exe.config
+D:\Misc\RerunApp\RerunApp\RerunApp\obj\Debug\RerunApp.csprojResolveAssemblyReference.cache
+D:\Misc\RerunApp\RerunApp\RerunApp\bin\Debug\RerunApp.exe
+D:\Misc\RerunApp\RerunApp\RerunApp\bin\Debug\RerunApp.pdb
+D:\Misc\RerunApp\RerunApp\RerunApp\obj\Debug\RerunApp.exe
+D:\Misc\RerunApp\RerunApp\RerunApp\obj\Debug\RerunApp.pdb
